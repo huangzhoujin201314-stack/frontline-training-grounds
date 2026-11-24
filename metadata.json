@@ -1,0 +1,6 @@
+{
+  "name": "FRONTLINE: TRAINING GROUNDS",
+  "description": "前线：战术训练场 — 浏览器即玩的3D第一人称工业战术竞技射击训练游戏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
